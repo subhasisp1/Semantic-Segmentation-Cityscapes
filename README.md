@@ -1,6 +1,8 @@
 # Semantic-Segmentation-Cityscapes
 This repository contains a preprocessing pipeline for the Cityscapes Dataset tailored for semantic segmentation tasks. It simplifies the original class space, resizes and normalizes images, and prepares train/val/test splits with processed masks.
 # Folder Structure
+Downlaod the Cityscapes dataset from  https://www.cityscapes-dataset.com/downloads/ , and makes sure your folder structure looks like following:
+
 ├── leftImg8bit/                
 │   ├── train/ \
 │   ├── val/ \
