@@ -36,6 +36,8 @@ python preprocess.py \
 # Output Stats
 After running, check files like:stats_train.json, stats_val.json. These include edge cases, pixel distributions, and total images processed.
 # Sample Outputs
-You’ll find visualizations and mask overlays in output/visualizations/.
+You’ll find visualizations and mask overlays in output/visualizations/. Some visualizations are as followings:
+![samples_train](https://github.com/user-attachments/assets/473e3189-a608-46b9-9541-51f54de38ac2)
+
 # Report
 A detailed report covering decisions, visuals, and dataset insights is included in the report/ folder.
