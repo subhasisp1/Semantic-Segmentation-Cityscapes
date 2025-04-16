@@ -22,8 +22,8 @@ This repository contains a preprocessing pipeline for the Cityscapes Dataset tai
 5.Nearest-neighbor resizing for masks
 6.Saves stats per split
 # Dependencies
-uv venv
-source .venv/bin/activate
+uv venv \
+source .venv/bin/activate \
 uv pip install -r requirements.txt
 # Run Preprocessing
 python preprocess.py \
