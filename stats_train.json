@@ -1,0 +1,13 @@
+{
+    "edge_cases": {},
+    "class_pixels": {
+        "background": 1306362141,
+        "road": 2036416525,
+        "building": 1260636120,
+        "vehicle": 459059194,
+        "person": 74789586,
+        "vegetation": 879783988,
+        "sky": 221979646
+    },
+    "total_images": 2975
+}
